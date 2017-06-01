@@ -24,9 +24,9 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是方方 
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+* 大家好，我是高小龙
+* 六月了，是个淡季，找份工作真不容易。
+* 为了展示自己，我也来写一份酷炫的简历！
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -120,31 +120,31 @@ html{
         fullMarkdown: `方应杭
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+前端工程师，js熟练有3年的工资经验，能吃苦肯专研。
 
 技能
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* JavaScript
+* Vue框架全家桶
+* Webpack
+* Git
+* HTML、CSS、jQuery
+* Bootsrap
+* java有半年左右开发经验
 
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. 武汉久翼游戏
+2. 武汉北创科技有限公司
+3. 武汉一块地
+4. 武汉乐星互动科技有限公司
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
-
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+* [GitHub](https://github.com/GaoHawk)
 
 `
       }
