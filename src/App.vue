@@ -117,7 +117,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `高小龙
 ----
 
 前端工程师，js熟练有3年的工资经验，能吃苦肯专研。
