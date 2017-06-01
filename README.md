@@ -7,8 +7,8 @@
 ## 使用方法
 
 ``` bash
-git clone git@github.com:jirengu-inc/animating-resume.git
-cd animating-resume
+git clone https://github.com/GaoHawk/Vue_resume.git
+cd Vue_resume
 npm install
 npm run dev
 ```
@@ -16,7 +16,7 @@ npm run dev
 ## 部署方法
 
 
-1. 编辑 config/index.js，修改第 10 行的 assetsPublicPath，值为 `项目名/dist`。如果你没有修改项目名 animating-resume，则可跳过此步骤。
+1. 编辑 config/index.js，修改第 10 行的 assetsPublicPath，值为 `项目名/dist`。如果你没有修改项目名 Vue_resume，则可跳过此步骤。
 
 2. 编译、上传
     ``` bash
