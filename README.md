@@ -2,7 +2,7 @@
 
 > This is my resume
 
-[预览](https://jirengu-inc.github.io/animating-resume/dist/)
+[预览](https://gaohawk.github.io/Vue_resume/mainPage.html)
 
 ## 使用方法
 
